@@ -1,0 +1,13 @@
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\bin\Debug\TesteBackEndViaVarejo.Tests.dll
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\bin\Debug\TesteBackEndViaVarejo.Tests.pdb
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\bin\Debug\TesteBackEndViaVarejo.exe
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\bin\Debug\TesteBackEndViaVarejo.pdb
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\obj\Debug\TesteBackEndViaVarejo.Tests.csprojResolveAssemblyReference.cache
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\obj\Debug\TesteBackEndViaVarejo.Tests.dll
+C:\Users\NOTERASZL\Documents\Visual Studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo.Tests\obj\Debug\TesteBackEndViaVarejo.Tests.pdb

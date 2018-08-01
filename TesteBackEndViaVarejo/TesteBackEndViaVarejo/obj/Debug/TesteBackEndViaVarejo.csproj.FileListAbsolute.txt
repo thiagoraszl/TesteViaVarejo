@@ -1,0 +1,6 @@
+c:\users\noteraszl\documents\visual studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo\bin\Debug\TesteBackEndViaVarejo.exe.config
+c:\users\noteraszl\documents\visual studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo\obj\Debug\TesteBackEndViaVarejo.csprojResolveAssemblyReference.cache
+c:\users\noteraszl\documents\visual studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo\bin\Debug\TesteBackEndViaVarejo.exe
+c:\users\noteraszl\documents\visual studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo\bin\Debug\TesteBackEndViaVarejo.pdb
+c:\users\noteraszl\documents\visual studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo\obj\Debug\TesteBackEndViaVarejo.exe
+c:\users\noteraszl\documents\visual studio 2015\Projects\TesteBackEndViaVarejo\TesteBackEndViaVarejo\obj\Debug\TesteBackEndViaVarejo.pdb
